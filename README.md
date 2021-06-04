@@ -6,5 +6,6 @@ Task 1 : Predict the percentage of a student based on the no. of study hours usi
 
 Data : http://bit.ly/w-data
 
+For Video explanation,
 LinkedIn Link : 
 Youtube Link : https://youtu.be/quzzIJtp6TQ
