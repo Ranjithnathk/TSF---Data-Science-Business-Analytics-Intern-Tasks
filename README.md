@@ -11,5 +11,7 @@ Simple Linear Regression Model is used to find the relationship between two cont
 One will be the independent variable (X) and the other will be the dependent variable (y).
 
 For Video explanation,
+
 Youtube Link : https://youtu.be/quzzIJtp6TQ
+
 LinkedIn Link : https://www.linkedin.com/posts/ranjithnath-k_task1-gripjune21-datascience-activity-6806649913947123712-T1wC
