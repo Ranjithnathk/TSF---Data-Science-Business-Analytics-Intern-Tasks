@@ -16,3 +16,15 @@ For Video explanation,
 Youtube Link : https://youtu.be/quzzIJtp6TQ
 
 LinkedIn Link : https://www.linkedin.com/posts/ranjithnath-k_task1-gripjune21-datascience-activity-6806649913947123712-T1wC
+
+**Task 2 : Predict the optimum number of clusters using Unsupervised ML and represent it visually.**
+
+Data : Iris Dataset - https://bit.ly/3kXTdox
+
+**K Means Clustering**
+
+K-means Clustering is a type of unsupervised ML algorithm which is simple and easy way to classify a given dataset to certain number of groups(clusters). Data points inside a cluster are homogeneous and heterogeneous to peer groups.
+
+For Video explanation,
+
+Youtube Link : https://www.youtube.com/watch?v=LGz415DU6es&t=27s
