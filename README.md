@@ -28,3 +28,11 @@ K-means Clustering is a type of unsupervised ML algorithm which is simple and ea
 For Video explanation,
 
 Youtube Link : https://www.youtube.com/watch?v=LGz415DU6es&t=27s
+
+**Task 3 : Perform Exploratory Data Analysis on ‘SampleSuperstore’ dataset**
+
+Data : https://bit.ly/3i4rbWl
+
+### Exploratory Data Analysis (EDA) : 
+
+Exploratory Data Analysis is understanding the dataset by summarizing the main characteristics and plotting them visually. It is used to gain better understanding of data aspects before creating the Machine learning Models.
