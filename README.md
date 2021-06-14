@@ -29,6 +29,8 @@ For Video explanation,
 
 Youtube Link : https://www.youtube.com/watch?v=LGz415DU6es&t=27s
 
+LinkedIn Link : https://www.linkedin.com/posts/ranjithnath-k_task2-gripjune21-datascience-activity-6808426192681754624-_9sk
+
 ### Task 3 : Perform Exploratory Data Analysis on ‘SampleSuperstore’ dataset**
 
 Data : https://bit.ly/3i4rbWl
@@ -40,3 +42,5 @@ Exploratory Data Analysis is understanding the dataset by summarizing the main c
 For Video explanation,
 
 Youtube Link : https://www.youtube.com/watch?v=Ut3Y1Gj8nds
+
+LinkedIn Link : https://www.linkedin.com/posts/ranjithnath-k_task3-gripjune21-datascience-activity-6810126075268608000-Bb8A
