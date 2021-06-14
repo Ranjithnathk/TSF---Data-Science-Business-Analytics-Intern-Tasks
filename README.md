@@ -1,8 +1,8 @@
 # TSF-Data_Science_Tasks
 
-The Sparks Foundation - GRIP June'21
+## The Sparks Foundation - GRIP June'21
 
-Task 1 : Predict the percentage of a student based on the no. of study hours using Supervised Machine Learning.
+### Task 1 : Predict the percentage of a student based on the no. of study hours using Supervised Machine Learning.
 
 Data : http://bit.ly/w-data
 
@@ -17,7 +17,7 @@ Youtube Link : https://youtu.be/quzzIJtp6TQ
 
 LinkedIn Link : https://www.linkedin.com/posts/ranjithnath-k_task1-gripjune21-datascience-activity-6806649913947123712-T1wC
 
-**Task 2 : Predict the optimum number of clusters using Unsupervised ML and represent it visually.**
+### Task 2 : Predict the optimum number of clusters using Unsupervised ML and represent it visually.**
 
 Data : Iris Dataset - https://bit.ly/3kXTdox
 
@@ -29,10 +29,14 @@ For Video explanation,
 
 Youtube Link : https://www.youtube.com/watch?v=LGz415DU6es&t=27s
 
-**Task 3 : Perform Exploratory Data Analysis on ‘SampleSuperstore’ dataset**
+### Task 3 : Perform Exploratory Data Analysis on ‘SampleSuperstore’ dataset**
 
 Data : https://bit.ly/3i4rbWl
 
-### Exploratory Data Analysis (EDA) : 
+**Exploratory Data Analysis (EDA) :**
 
 Exploratory Data Analysis is understanding the dataset by summarizing the main characteristics and plotting them visually. It is used to gain better understanding of data aspects before creating the Machine learning Models.
+
+For Video explanation,
+
+Youtube Link : https://www.youtube.com/watch?v=Ut3Y1Gj8nds
